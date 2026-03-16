@@ -35,6 +35,8 @@ Enter text and the model will predict the sentiment.
 - Python
 - scikit-learn
 - NLP (Natural Language Processing)
+## Hugging Face Model:
+https://huggingface.co/alenkurian-ml/sentiment-analysis-basic
 
 ## Author
 
